@@ -26,8 +26,11 @@ Follow these steps to set up and run the project:
    ```bash
    git clone https://github.com/AminVeisi/Basic_Info_Extractor.git
 3. **Navigate to the Project Directory**:
+   ```bash
    cd Basic_Info_Extractor
 4. **Install Dependencies: Install the required libraries using pip**:
+   ```bash
    pip install -r requirements.txt
 5. **Run the Script: Execute the Python script to extract information from a sample resume**:
+   ```bash
    python basic_extraction.py
