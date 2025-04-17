@@ -1,0 +1,10 @@
+For the input text:
+Amin Veisi
+Email: amin.veisi@example.com
+Phone: +98-912-123-4567
+
+The tool outputs:
+Extracted Information:
+Name: Amin Veisi
+Email: amin.veisi@example.com
+Phone: +98-912-123-4567
